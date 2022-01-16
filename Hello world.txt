@@ -1,9 +1,10 @@
-print ("Hello world")
+print ("Hello world;")
 
-print ("Hello third world")
+print ("Hello third world;")
 
-print ("Halow")
+print ("Halow;")
 
-print ("Hallo my friend")
+print ("Hallo my friend;")
 
-print ("Glad to see")
+print ("Glad to see;")
+
